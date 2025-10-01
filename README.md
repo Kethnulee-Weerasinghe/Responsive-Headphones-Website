@@ -2,19 +2,20 @@
 
 A modern, responsive website design showcasing headphones with a sleek layout, smooth animations, and interactive features. Built using HTML, CSS, and JavaScript to deliver a clean and engaging user experience across all devices.
 
-**Live Website:** [https://kethnulee-weerasinghe.github.io/NFT-Website/](https://kethnulee-weerasinghe.github.io/NFT-Website/)
+**Live Website:** [https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/](https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/)
 
 ![Website Preview](./preview.png)
 
 ## Overview
 
-This project showcases a modern landing page design for an NFT-related product or platform. It is built to highlight featured content, calls to action, and brand messaging with visual appeal and responsive behavior.
+This is a **responsive, static website** aimed at showcasing headphones models, features, and a polished modern UI. It adapts across devices (desktop, tablet, mobile), with sections like “About”, “Favorites”, “Models”, etc. The styling and layout draw inspiration from JBL’s product pages.  
 
-- Smooth scroll-based animations using ScrollReveal
-- Animated navigation and interactive UI elements
-- Mobile-first responsive layout
-- Clean and minimal visual design
-- Optimized for performance and accessibility
+- Responsive design (desktop / tablet / mobile)  
+- Product showcase with images and details  
+- “Choose Your Favorite” section for color variants  
+- Model specifications and highlight features section  
+- Navigation menu (Home, About, Favorites, Models)  
+- Footer with social links and site info 
 
 ## Technologies Used
 
