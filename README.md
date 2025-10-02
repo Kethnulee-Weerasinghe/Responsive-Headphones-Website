@@ -21,9 +21,9 @@ A sleek, fully responsive web application demonstrating front-end development sk
 - CSS
 - JavaScript
 
-## Running the Project Locally
+## Running Locally
 
-To run this project on a local machine:
+To view or edit the project locally:
 
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/Responsive-Headphones-Website.git
