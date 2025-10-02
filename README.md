@@ -1,6 +1,6 @@
 # Responsive Headphones Website
 
-A sleek, fully responsive web application demonstrating front-end development skills. Built with clean HTML, CSS, and JavaScript, this project showcases a modern, user-centric design with smooth interactions and cross-device compatibility. It highlights visually appealing, intuitive, and performant web experiences optimized for seamless user engagement.
+A sleek, fully responsive web application demonstrating front-end development skills. Built with clean HTML, CSS, and JavaScript, this project showcases a user-centric design with smooth interactions and cross-device compatibility. It highlights visually appealing, intuitive, and performant web experiences optimized for seamless user engagement.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/](https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/)
 
