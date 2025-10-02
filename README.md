@@ -1,6 +1,6 @@
 # Responsive Headphones Website
 
-A modern, responsive website design showcasing headphones with a sleek layout, smooth animations, and interactive features. Built using HTML, CSS, and JavaScript to deliver a clean and engaging user experience across all devices.
+The Responsive Headphones Website is a sleek and modern product showcase designed to deliver an engaging and seamless user experience across all devices with a focus on visual appeal, intuitive navigation, and dynamic interaction.
 
 **Live Website:** [https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/](https://kethnulee-weerasinghe.github.io/Responsive-Headphones-Website/)
 
