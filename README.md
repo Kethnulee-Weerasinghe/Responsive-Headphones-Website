@@ -8,9 +8,10 @@ A sleek, fully responsive web application demonstrating front-end development sk
 
 ## Overview
 
+This project aims to showcase strong UI and front-end skills via a mock e-commerce site for a headphone brand. The site adapts across devices, has animated scroll behavior, and provides a visually engaging browsing experience.
+
 - Responsive design (desktop / tablet / mobile)  
 - Product showcase with images and details  
-- “Choose Your Favorite” section for color variants  
 - Model specifications and highlight features section  
 - Navigation menu (Home, About, Favorites, Models)  
 - Footer with social links and site info 
@@ -28,3 +29,4 @@ To view or edit the project locally:
 ```bash
 git clone https://github.com/Kethnulee-Weerasinghe/Responsive-Headphones-Website.git
 cd Responsive-Headphones-Website
+```
