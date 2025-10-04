@@ -10,11 +10,11 @@ A sleek, fully responsive web application demonstrating front-end development sk
 
 This project aims to showcase strong UI and front-end skills via a mock e-commerce site for a headphone brand. The site adapts across devices, has animated scroll behavior, and provides a visually engaging browsing experience.
 
-- Responsive design (desktop / tablet / mobile)  
-- Product showcase with images and details  
-- Model specifications and highlight features section  
-- Navigation menu (Home, About, Favorites, Models)  
-- Footer with social links and site info 
+- Footer with social links and site info
+- Fully responsive design (mobile, tablet, desktop)  
+- Navigation with sections
+- Product showcase with images, model variants
+- Smooth scrolling / section anchoring     
 
 ## Technologies Used
 
